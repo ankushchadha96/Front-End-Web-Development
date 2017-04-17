@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here.
+ Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you
+ used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+so far i have learnt about the basic orientation of html.about what sort of environment we have  to use in oeder to code in html.the text editors which can be used to code in html.
+then i came to know about the browers the support html which automatically compile our html  code and dispay the output accordingly.then solved some of the quiz.i learnt the concept of
+ making a text bold , making a text italic.By doing project i came to know about strike over a line and implementing superscript.
+
+
+nothing was easy as such because i was new to this course.the starting concepts of defining a paragraph  and span was easy.Then came the concept of hyper linking i.e proving a reference
+to other page this was easy to learn as it had a syntax which is easy to learn.also the concept of uploading image was also easy.
+
+
+difficult was the concept of tree which had a parent and child concepts. it took me some time to learn that topic . the use of div tag was also quite difficult to understand.
+
+i took the help of google where i felt it was required. i kept mindset within the vedios so that i was able to understand the vedios.kept myself motivated.i used the HTML element 
+reference to learn about the tag more.overall it was very interesting experience.  
