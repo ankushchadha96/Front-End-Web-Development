@@ -1,0 +1,46 @@
+
+.list {
+	 list-style-type:none;
+	 text-align: left;
+	 margin-right: 50px;
+	 padding:10px;
+
+}
+
+span {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+	padding-left: 10px;
+}
+
+.main-border {
+	width: 335px;
+	border-style: ridge;
+    border-width: 1px;
+     box-shadow: 5px 5px 2px #F8F5F6;
+}
+
+.image-resize {
+	margin-left:15px;
+   	border-style: ridge;
+    border-width: 1px;
+    height:200px;
+    width:300px;   
+}
+
+.sub-border {
+	margin: 15px;
+	border-style: ridge;
+    border-width: 1px;   
+}
+
+.description {
+margin-left: 10px;	
+}
+
+.heading {
+	padding-left: 20px;
+}
